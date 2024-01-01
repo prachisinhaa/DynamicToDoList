@@ -1,3 +1,33 @@
-title {
-    background-color : cyan;
+* {
+    padding: 1%;
+    text-align: center;
+}
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(203, 247, 133);
+}
+h1 {
+    font-weight: bold;
+    color: rgb(29, 43, 86); 
+    font-size: 300%;
+}
+
+input {
+    color: rgb(29, 43, 86); 
+    font-size: 150%;
+}
+
+button {
+    color: rgb(29, 43, 86); 
+    font-size: 150%;
+}
+
+button:hover{
+    background-color: rgb(220, 215, 215);
+}
+
+ul {
+    font-size: 150%;
+    background-color: rgb(216, 246, 167);
 }
